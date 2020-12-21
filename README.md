@@ -18,7 +18,9 @@
 
 ## I know:
 
-Python / Machine Learning / Data Analysis / Data Visualization / 
+Python / Machine Learning / Data Analysis / Data Visualization /
+
 Microsoft SQL Server / DBMD / Tableau / Google Sheets / 
+
 Git/Github / HTML/CSS / Linux / Agile / Jira
 
