@@ -20,7 +20,7 @@
 
 Python / Machine Learning / Deep Learning / Natural Language Processing / Data Analysis / Data Visualization /
 
-Microsoft SQL Server / Database Modelling & Design / Tableau / Google Sheets / 
+AWS / Microsoft SQL Server / Database Modelling & Design / Tableau / Google Sheets / 
 
 Git/Github / HTML/CSS / Linux / Agile / Jira
 
