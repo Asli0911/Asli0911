@@ -11,16 +11,16 @@
 
 
 
-- 🔭 I’m currently working on an NLP Project (Python | scikit-learn | NLTK)
-- 🌱 I’m currently learning deep learning (Neural Networks | TensorFlow | Keras)
-- 👯 I'm looking to contribute in real-world Data Science projects
+- 🔭 I’m currently working on two differen ML Projects (Python | scikit-learn | Scipy | Matplotlib)
+- 🌱 I have learned Machine Learning, Natural Language Processing, and Deep Learning (Neural Networks | TensorFlow | Keras | NLTK)
+- 👯 I'm seeking to contribute in real-world Data Science projects
 - 💬 Ask me about anything that you want to learn
 
 ## I know:
 
 Python / Machine Learning / Deep Learning / Natural Language Processing / Data Analysis / Data Visualization /
 
-AWS / Microsoft SQL Server / Database Modelling & Design / Tableau / Google Sheets / 
+AWS / Model Deployment / Streamlit / Flask / Microsoft SQL Server / Database Modelling & Design / Tableau / Google Sheets / 
 
-Git/Github / HTML/CSS / Linux / Agile / Jira
+Git / Github / HTML / CSS / Linux / Agile / Jira
 
