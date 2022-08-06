@@ -12,9 +12,9 @@
 
 
 - 🔭 I’m currently working on two different ML Projects (Python | scikit-learn | Scipy | Matplotlib)
-- 🌱 I have learned Machine Learning, Natural Language Processing, and Deep Learning (Neural Networks | TensorFlow | Keras | NLTK)
+- 🌱 I learned Machine Learning, Natural Language Processing, and Deep Learning (Neural Networks | TensorFlow | Keras | NLTK)
 - 👯 I'm seeking to contribute creative and curious teams in challenging Data Science projects
-- 💬 Ask me about anything that you want to learn
+- 💬 Ask me about anything 
 
 ## I know:
 
